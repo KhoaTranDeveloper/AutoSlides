@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>MainScreen.qml</file>
+        <file>Colors.js</file>
+        <file>ButtonObject.qml</file>
+        <file>ControlArea.qml</file>
+        <file>IndexArea.qml</file>
+    </qresource>
+</RCC>
